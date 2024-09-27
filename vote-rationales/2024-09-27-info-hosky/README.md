@@ -1,6 +1,8 @@
 
 # Vote 2024-09-27 - Info Action Hosky
 
+**Note:** A NewLine character was removed from the end of the rationale file, due to inconsistency of hashing across tooling.
+
 - [Rationale File](./info-hosky.jsonld)
 - IPFS CID: `bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
 - IPFS hosted (with ipfs.io gateway): `https://ipfs.io/ipfs/bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
