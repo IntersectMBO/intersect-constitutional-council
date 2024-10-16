@@ -3,6 +3,7 @@
 
 - Hash: `5c0d1262b5e11dbd4d5786ed82cad79f65e3e4e5a60c01e6b83279db53a911bf`
 - On-chain URI: `ipfs://bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm`
+- Transaction: `https://cardanoscan.io/transaction/6943a1e8fc94b3400d4c0712acf2c8f5264c93a79d5621ae14897d88e3d7093c?tab=votes`
 
 - [Rationale File](./vote-info-ikigai-rationale.jsonld)
 - IPFS CID: `bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm`

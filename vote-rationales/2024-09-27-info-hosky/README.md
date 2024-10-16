@@ -5,6 +5,7 @@
 
 - Hash: `2b87185632b98b829ac048f94749270b9e6442524faeba5a4aadcd05e58a728e`
 - On-chain URI: `ipfs://bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
+- Transaction: `https://cardanoscan.io/transaction/b5c852847c12c30ef29c598b6baffd2cacf0ccf58d003ebfd7bb2219d8719daf?tab=votes`
 
 - [Rationale File](./info-hosky.jsonld)
 - IPFS CID: `bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
