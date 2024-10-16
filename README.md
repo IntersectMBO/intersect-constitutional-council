@@ -2,7 +2,7 @@
 
 Repository for files related to the Intersect's Constitutional Council.
 
-More information via Constitutional Council Gitbook
+More information via [Constitutional Council Gitbook](https://intersect.gitbook.io/constitutional-council-of-intersect).
 
 ## Navigation
 
