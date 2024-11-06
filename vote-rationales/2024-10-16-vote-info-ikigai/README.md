@@ -7,6 +7,7 @@
 - On-chain URI: `ipfs://bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm`
 
 - [Rationale File](./vote-info-ikigai-rationale.jsonld)
+- [Rendered Human Readable Markdown Rationale File](./vote-info-ikigai-rationale.jsonld.md)
 - IPFS CID: `bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm`
 - IPFS hosted (with ipfs.io gateway): `https://ipfs.io/ipfs/bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm`
 - IPFS hosted (with web3 storage gateway): `https://bafkreibnfzisfoirpc4fsqseozsdzh3jow5at6xmumxjqvh7ddrmlbguzm.ipfs.w3s.link`

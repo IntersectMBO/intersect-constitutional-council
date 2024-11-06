@@ -7,6 +7,7 @@
 - On-chain URI: `ipfs://bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
 
 - [Rationale File](./info-hosky.jsonld)
+- [Rendered Human Readable Markdown Rationale File](./info-hosky.jsonld.md)
 - IPFS CID: `bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
 - IPFS hosted (with ipfs.io gateway): `https://ipfs.io/ipfs/bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy`
 - IPFS hosted (with web3 storage gateway): `https://bafkreibfvicensie6355siagjjnb7fyqbv4ud5dahzalrd3p7ccnrhcspy.ipfs.w3s.link/`
