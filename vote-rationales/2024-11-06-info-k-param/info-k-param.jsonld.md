@@ -39,7 +39,7 @@ The info action “Should K increased?” is not constitutional due to not havin
 
 # Counterargument Discussion
 
-Note
+
 
 # Conclusion
 
