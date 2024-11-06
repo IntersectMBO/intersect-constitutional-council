@@ -6,7 +6,8 @@
 - Hash: ``
 - On-chain URI: ``
 
-- [Rationale File](./info-k-param-rationale.jsonld)
+- [Rationale File](./info-k-param.jsonld)
+- [Rendered Human Readable Markdown Rationale File](./info-k-param.jsonld.md)
 - IPFS CID: ``
 - IPFS hosted (with ipfs.io gateway): `https://ipfs.io/ipfs/`
 - IPFS hosted (with web3 storage gateway): `https://.ipfs.w3s.link`
