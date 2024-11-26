@@ -1,5 +1,5 @@
 
-# Vote 2024-11-06 - Info Action K Parameter
+# Vote 2024-11-27 - Protocol Parameter Update Oopsie
 
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
