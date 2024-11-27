@@ -35,7 +35,7 @@ The Intersect Council votes the protocol parameter change unconstitutional due t
 # Internal Vote
 
 - Constitutional: 0
-- Unconstitutional: 6
+- Unconstitutional: 8
 - Abstain: 0
 - Did Not Vote: 0
 
