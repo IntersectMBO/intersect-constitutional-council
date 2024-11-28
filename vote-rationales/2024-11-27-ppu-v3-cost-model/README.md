@@ -8,7 +8,7 @@
   - [via governance X bot](https://x.com/GovActions/status/)
 
 
-- Hash: ``
+- Hash: `48c2f6da3d8325fc871d771242a5c3437b6775f24d3d761e40e70895bd4caf3d`
 - On-chain URI: `ipfs://`
 
 - [Rationale File](./rationale.jsonld)
