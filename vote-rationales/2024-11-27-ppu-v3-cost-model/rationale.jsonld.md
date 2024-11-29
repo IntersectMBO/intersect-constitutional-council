@@ -33,7 +33,7 @@ The Intersect Constitutional Council votes the action to be Constitutional.
 
 # Internal Vote
 
-- Constitutional: 6
+- Constitutional: 7
 - Unconstitutional: 0
 - Abstain: 0
 - Did Not Vote: 0
