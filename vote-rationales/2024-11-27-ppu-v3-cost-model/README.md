@@ -1,11 +1,11 @@
 
 # Vote 2024-11-27 - Protocol Parameter Plutus V3 Cost Model Update
 
-- Transaction ID: ``
-  - [via adastat](https://adastat.net/transactions/)
-  - [via cexplorer](https://cexplorer.io/tx/)
-  - [via cardanoscan](https://cardanoscan.io/transaction/?tab=votes)
-  - [via governance X bot](https://x.com/GovActions/status/)
+- Transaction ID: `1f41d29cb2afb235c8bdfaf686889ce2ecec53b3325edb551a02ff940ec16ffa`
+  - [via adastat](https://adastat.net/transactions/1f41d29cb2afb235c8bdfaf686889ce2ecec53b3325edb551a02ff940ec16ffa)
+  - [via cexplorer](https://cexplorer.io/tx/1f41d29cb2afb235c8bdfaf686889ce2ecec53b3325edb551a02ff940ec16ffa)
+  - [via cardanoscan](https://cardanoscan.io/transaction/1f41d29cb2afb235c8bdfaf686889ce2ecec53b3325edb551a02ff940ec16ffa?tab=votes)
+  - [via governance X bot](https://x.com/GovActions/status/1862863922812121302)
 
 
 - Hash: `2d28bc6806ebd935198e8ecfa05deee4067516f6e9b91173d47bd150ff2ba726`
