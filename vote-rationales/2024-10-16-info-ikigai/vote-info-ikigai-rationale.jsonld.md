@@ -40,6 +40,10 @@ The info action “Cardanoの生きがい - Ikigai -” is constitutional.
  **Conclusion**
  The info action presented in Japanese with an English translation is sufficiently accessible. The info action is constitutional.
 
+# Precedent Discussion
+
+Historically most of Cardano governance development such as CIP-1694 has used a common language (English) and this has been practiced as having sufficient accessibility but CIP-1 does not require english but an ISO 639-1 code of the target language and a method for translated files to be related to an original source language. This can also be seen as the expression of openness (any language allowed) vs accessibility issues such as understanding what is the source material vs supporting translation material. 
+
 # Counterargument Discussion
 
 While there is nothing wrong with using an Info Action to make a declaration, it appears that this issue is not “constitutional” in nature.  Therefore, while this governance action is not “unconstitutional” and therefore undeserving of a “No” vote by the Intersect Council, it is reasonable to take the position that it is “non-constitutional” in the fact that it does not apply to the operations of the Cardano network.  It in fact declares itself to be purely an action of sentiment.

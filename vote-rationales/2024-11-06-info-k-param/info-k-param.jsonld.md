@@ -37,6 +37,10 @@ The info action “Should K increased?” is not constitutional due to not havin
 
  The Intersect Council would also highlight the opportunity for the community to refine info actions as community sentiment gauges with off-chain discussions in the various tools online before submitting for the entire Cardano community on-chain. By promoting a culture of such discussions we ensure that on-chain governance is transparent and where community sentiment is done at a stage when the community is informed on a topic thus promoting effective governance. Polls related to changing protocol parameters should at a minimum have a discussion of what the proposer believes would be the effect of the proposed change or range of changes proposed.
 
+# Precedent Discussion
+
+The Cardano community has a long tradition in debating protocol parameters, such as through the Cardano Foundation forums before any proposed changes, and also with a tradition for further research on what the community identifies as important protocol parameters to change. Historically the K-parameter has been under review by the community and discussion has included implications of K-parameter changes.
+
 # Counterargument Discussion
 
 
