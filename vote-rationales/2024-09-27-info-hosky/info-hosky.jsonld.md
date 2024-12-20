@@ -25,6 +25,10 @@ In the proposal the rationale given is 'Saying Chang-1, Chang-2, Chang+1 is conf
 This meets minimum standards for an info action as the name proposed is not seen as damaging the legitimacy of the info action or violating the intended function of the info action. There are no technical standards this naming proposal needs to fulfill. There are currently no established routines for any thresholds of info actions binding future governance actions related to naming hard forks in the Interim Constitution. There is also no established process giving requirements for type of arguments or rationale for such an info action of a hard fork name.
 Based on this it is concluded that the rationale given is sufficient.
 
+# Precedent Discussion
+
+Hard forks, development phases, and ledger eras on Cardano have traditionally been named with consent of the entities who held the genesis keys of the network. Two recent hard forks have been named after a community member in memory of Vasil Stoyanov Dabov or Cardano researchers in memory of Phil Chang. The process for naming hard forks during participatory governance has not been established, or decided if there should be a formal process for it or not.
+
 # Counterargument Discussion
 
 Establishing the bounds of the CC is of utmost importance. CIP-1694 goes further than the current constitution in saying,'Though it cannot be enforced on-chain, the constitutional committee is only supposed to vote on the constitutionality of governance actions (which should thus ensure the long-term sustainability of the blockchain) and should be replaced (via the no confidence action) if they overstep this boundary. Said differently, there is a social contract between the constitutional committee and the actors of the network. Although the constitutional committee could reject certain governance actions (by voting 'No' on them), they should only do so when those governance actions are in conflict with the Constitution.'

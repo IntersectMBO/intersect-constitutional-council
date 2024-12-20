@@ -27,6 +27,18 @@ Should the community decide on this matter through an on-chain vote, it would ma
 
 Finally, it is worth highlighting the independence of this Council as the GA was proposed by the Intersect Hard Fork Working Group.
 
+# Precedent Discussion
+
+This council has set precedence with regards to Info Actions relating to the naming of hard forks after voting that the very first governance action, the Hosky hard fork Info Action, was constitutional. While this initial GA was the first of its kind and contained some errors, the current GA is an improvement and has been submitted free of any technical errors and, as previously mentioned, meets the standards laid out in Article III, section 6, Article II, Section 4, and the tenets of Article I.
+
+Hard forks, development phases, and ledger eras on Cardano have traditionally been named with consent of the entities who held the genesis keys of the network. Two recent hard forks have been named in memory of Cardano Community members: Vasil Stoyanov Dabov and Phil Chang.
+
+Additionally, it is imperative to note that the process for naming hard forks during participatory governance has not yet been established and no formal process has been decided upon. However, the Intersect Constitutional Council is mindful that we are establishing a precedent for the Cardano ecosystem and this could be the beginnings of a formalized process.
+
+This Council has already established its own precedent regarding voting on Info Actions pertaining to the naming of hard forks, as the first mainnet governance action (15f82a365bdee483a4b03873a40d3829cc88c048ff3703e11bd01dd9e035c916#0) proposed naming the upcoming hard fork “Hosky.”
+
+A majority of the Intersect Constitutional Council voted “Constitutional” in that instance, thus recognizing the authority of the Cardano community to take such an action through on-chain governance.
+
 # Counterargument Discussion
 
 As previously outlined in the Council’s rationale counterargument discussion in the 15f82a365bdee483a4b03873a40d3829cc88c048ff3703e11bd01dd9e035c916#0 “Hosky” governance action, the same counter argument can be raised here for the Plomin Hard Fork proposal.
