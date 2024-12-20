@@ -7,6 +7,7 @@ extract_jsonld_data() {
     # Extract the data fields using jq
     local summary=$(jq -r '.body.summary // empty' "$jsonld_file")
     local rationaleStatement=$(jq -r '.body.rationaleStatement // empty' "$jsonld_file")
+    local precedentDiscussion=$(jq -r '.body.precedentDiscussion // empty' "$jsonld_file")
     local counterargumentDiscussion=$(jq -r '.body.counterargumentDiscussion // empty' "$jsonld_file")
     local conclusion=$(jq -r '.body.conclusion // empty' "$jsonld_file")
     local authors=$(jq -r '.authors[] // empty' "$jsonld_file")
@@ -33,6 +34,10 @@ $summary
 # Rationale Statement
 
 $rationaleStatement
+
+# Precedent Discussion
+
+$precedentDiscussion
 
 # Counterargument Discussion
 
