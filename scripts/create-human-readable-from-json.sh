@@ -17,6 +17,7 @@ extract_jsonld_data() {
     local unconstitutional=$(jq -r '.body.internalVote.unconstitutional // empty' "$jsonld_file")
     local abstain=$(jq -r '.body.internalVote.abstain // empty' "$jsonld_file")
     local didNotVote=$(jq -r '.body.internalVote.didNotVote // empty' "$jsonld_file")
+    local againstVote=$(jq -r '.body.internalVote.againstVote // empty' "$jsonld_file")
 
     # Extract the references and format them
     local references=$(jq -r '.references[] | "- [\(.label)](\(.uri))" // empty' "$jsonld_file")
@@ -53,6 +54,7 @@ $conclusion
 - Unconstitutional: $unconstitutional
 - Abstain: $abstain
 - Did Not Vote: $didNotVote
+- Against Voting: $againstVote
 
 # References
 
@@ -77,18 +79,5 @@ EOF
 # Check if a file or directory is passed as an argument
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <file or directory>"
-    exit 1
-fi
-
-# If the argument is a directory, process each JSON-LD file
-if [ -d "$1" ]; then
-    for jsonld_file in "$1"/*.jsonld; do
-        extract_jsonld_data "$jsonld_file"
-    done
-elif [ -f "$1" ]; then
-    # If it's a single file, process it
-    extract_jsonld_data "$1"
-else
-    echo "Invalid input. Please provide a valid file or directory."
     exit 1
 fi
