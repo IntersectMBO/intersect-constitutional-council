@@ -1,11 +1,11 @@
 
 # Vote 2025-02-17 - New Constitution
 
-- Transaction ID: ``
-  - [via adastat](https://adastat.net/transactions/)
-  - [via cexplorer](https://cexplorer.io/tx/)
-  - [via cardanoscan](https://cardanoscan.io/transaction/?tab=votes)
-  - [via governance X bot](https://x.com/GovActions/status/)
+- Transaction ID: `ad9058129d4843fef770dd355df41ca686fc8b24f459e1653cc18484ad0e68b1`
+  - [via adastat](https://adastat.net/transactions/ad9058129d4843fef770dd355df41ca686fc8b24f459e1653cc18484ad0e68b1)
+  - [via cexplorer](https://cexplorer.io/tx/ad9058129d4843fef770dd355df41ca686fc8b24f459e1653cc18484ad0e68b1/governance#data)
+  - [via cardanoscan](https://cardanoscan.io/vote/ad9058129d4843fef770dd355df41ca686fc8b24f459e1653cc18484ad0e68b1)
+  - [via governance X bot](https://x.com/GovActions/status/1891504164376883705)
 
 - Rationale metadata hash: `a1838007cfb7044766349abd491e8376eed85055d0afeb2d47e0aa8438a576f6`
 - On-chain rationale metadata URI: `ipfs://bafkreicat76oqfgxcf73wl3svudwibk63py2r4gj34fobxwkrjwutdawve`
