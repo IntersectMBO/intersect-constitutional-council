@@ -38,8 +38,10 @@ With the evidence presented here, the Intersect Constitutional Council views the
 
 # References
 
-
+- [The Interim Constitution as converted to markdown and hosted on the Intersect github](ipfs://bafkreifnwj6zpu3ixa4siz2lndqybyc5wnnt3jkwyutci4e2tmbnj3xrdm)
+- [Cardano Constitution Drafting Process](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/constitution-vote-all-you-need-to-know)
+- [Proposed Cardano Constitution](ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuv)
+- [Literature on direct acceptance theory](https://dash.lib.harvard.edu/bitstream/handle/1/4727453/Peter%20Suber%2C%20_Paradox%20of%20Self-Amendment%20in%20Constitutional%20Law_.htm)
 
 # Authors
-
 
