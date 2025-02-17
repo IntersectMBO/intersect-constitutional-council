@@ -1,5 +1,5 @@
 
-# Vote 2025-02-14 - New Constitution
+# Vote 2025-02-17 - New Constitution
 
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
