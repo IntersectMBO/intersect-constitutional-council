@@ -21,7 +21,9 @@ In the process of drafting the new Constitution, 63 global workshops were held, 
 
 # Counterargument Discussion
 
+As with previous governance actions submitted by Intersect, the Intersect Constitutional Council reasserts its position as an independent body of Intersect Members and Cardano Community contributors who are able to vote without undue influence on their outputs. With that being said, in this instance the Council also acknowledges the current composition of its members and their close relation to the process by which this proposed Constitution has come to be. On the Council we have Civics Committee members, a Constitutional Delegate, a Constitutional Convention host, and multiple members who attended the proceedings in both Buenos Aires, Argentina and Nairobi, Kenya, as invited members of the ICC. We acknowledge that some may view this as grounds to vote Abstain but we have also demonstrated throughout our Interim tenure that we are able to acknowledge and discuss any such potential biases and still continue to act in accordance with our role of assessing governance actions solely on their constitutionality, independently of any personal opinion or bias.
 
+To this end, we have participated in thorough discussion between an “Abstain” and a “Constitutional” vote considering a range of pro’s and con’s including, but not limited to, potential positive optics of an “Abstain” vote within the community in the short-term, as well as potential long-term impacts. For example, what would it look like to newcomers to the ecosystem in the future if Intersect itself has not voted in favour of the Constitution that the ecosystem lives by?
 
 # Conclusion
 
