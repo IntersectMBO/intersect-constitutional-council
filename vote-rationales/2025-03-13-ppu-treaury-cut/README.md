@@ -7,7 +7,7 @@
   - [via cardanoscan](https://cardanoscan.io/vote/)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: `8816713a284397bcc45cfeba03b93bed99c1907f52e0c3484c10e7f364d42614`
+- Rationale metadata hash: `93d9d8227ee3fed9c2bae6881e743ac3d56a9f7a7f1697583e2956c20df81ce0`
 - On-chain rationale metadata URI: `ipfs://`
 
 - [Rationale File](./rationale.jsonld)
