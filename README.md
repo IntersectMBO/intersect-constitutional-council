@@ -14,3 +14,4 @@ More information via [Constitutional Council Gitbook](https://intersect.gitbook.
   - [2024-11-27 - Protocol Parameter Update (V3 Cost Model)](./vote-rationales/2024-11-27-ppu-v3-cost-model/)
   - [2024-12-19 - Info Action Name Hardfork Plomin](./vote-rationales/2024-12-19-info-hf-naming/)
   - [2025-02-17 - New Constitution Replace Interim](./vote-rationales/2025-02-17-new-const/)
+  - [2025-03-13 - Protocol Parameter Change Reduce Treasury Cut](./vote-rationales/2025-03-13-ppu-treaury-cut/)
