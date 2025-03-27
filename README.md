@@ -15,3 +15,4 @@ More information via [Constitutional Council Gitbook](https://intersect.gitbook.
   - [2024-12-19 - Info Action Name Hardfork Plomin](./vote-rationales/2024-12-19-info-hf-naming/)
   - [2025-02-17 - New Constitution Replace Interim](./vote-rationales/2025-02-17-new-const/)
   - [2025-03-13 - Protocol Parameter Change Reduce Treasury Cut](./vote-rationales/2025-03-13-ppu-treaury-cut/)
+  - [2025-03-27 - Info Action Product Roadmap](./vote-rationales/2025-03-27-info-roadmap/)
