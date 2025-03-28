@@ -7,8 +7,8 @@
   - [via cexplorer](https://cexplorer.io/tx//governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: `2070fc99586291808c964391c6a29bfd473000cd836b98ae5267c16ec6803ed8`
-- On-chain rationale metadata URI: `ipfs://`
+- Rationale metadata hash: `8ebe5caf43bddfd4c1f99c4bdc212a174f1c991415e8595c4535f9b03521ff4d`
+- On-chain rationale metadata URI: `ipfs://bafkreid3ij3kwuduawumhwhmqxwcliaonxbutxg7nmjdiixz5cntjtz4py`
 
 - [Rationale File](./rationale.jsonld)
 - [Rendered Human Readable Markdown Rationale File](./rationale.jsonld.md)

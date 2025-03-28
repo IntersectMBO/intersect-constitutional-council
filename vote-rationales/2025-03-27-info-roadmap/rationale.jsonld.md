@@ -36,7 +36,7 @@ This decision reflects the Committee’s position that all governance actions sh
 - Constitutional: 0
 - Unconstitutional: 4
 - Abstain: 1
-- Did Not Vote: 0
+- Did Not Vote: 2
 
 # References
 
