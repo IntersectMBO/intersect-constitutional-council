@@ -1,5 +1,5 @@
 
-# Vote 2025-04-16 - Net Change Limit
+# Vote 2025-04-16 - Info 2025 2026 Net Change Limit 
 
 - Transaction ID: ``
   - [via adastat]()
@@ -17,5 +17,5 @@
 - IPFS hosted (with ipfs.io gateway): ``
 - IPFS hosted (with web3 storage gateway): ``
 
-- Github hosted: `https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-04-16-net-change-limit/rationale.jsonld`
+- Github hosted: `https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-04-16-info-net-change-limit/rationale.jsonld`
 - Google doc: `https://docs.google.com/document/d/1pIHtIND-Ks47n48aeTLvuJj8aZx31iKjSbmq6xQ31bc/edit?tab=t.0`

@@ -16,4 +16,4 @@ More information via [Constitutional Council Gitbook](https://intersect.gitbook.
   - [2025-02-17 - New Constitution Replace Interim](./vote-rationales/2025-02-17-new-const/)
   - [2025-03-13 - Protocol Parameter Change Reduce Treasury Cut](./vote-rationales/2025-03-13-ppu-treaury-cut/)
   - [2025-03-27 - Info Action Product Roadmap](./vote-rationales/2025-03-27-info-roadmap/)
-  - [2025-04-16 - Net Change Limit ](./vote-rationales/2025-04-16-net-change-limit-7f3204)
+  - [2025-04-16 - Info 2025 2026 Net Change Limit ](./vote-rationales/2025-04-16-info-net-change-limit)
