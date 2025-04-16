@@ -17,5 +17,5 @@
 - IPFS hosted (with ipfs.io gateway): ``
 - IPFS hosted (with web3 storage gateway): ``
 
-- Github hosted: `https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-04-16-net-change-limit-7f3204/rationale.jsonld`
+- Github hosted: `https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-04-16-net-change-limit/rationale.jsonld`
 - Google doc: `https://docs.google.com/document/d/1pIHtIND-Ks47n48aeTLvuJj8aZx31iKjSbmq6xQ31bc/edit?tab=t.0`
