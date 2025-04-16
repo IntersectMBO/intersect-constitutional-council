@@ -42,7 +42,6 @@ This decision reinforces the expectation for clear, immutable documentation in g
 
 - [Cardano Blockchain Ecosystem Constitution](ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy)
 - [Governance Action on GovTool](https://gov.tools/governance_actions/7f320409d9998712ff3a3cdf0c9439e1543f236a3d746766f78f1fdbe1e06bf8#0)
-- [Past PCP discussion on parameter change](https://forum.cardano.org/t/pcp-treasurytax-tau-parameter-earncoinpool/123245/11)
 
 # Authors
 
