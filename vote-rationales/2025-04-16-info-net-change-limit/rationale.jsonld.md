@@ -1,11 +1,11 @@
 
 # Summary
 
-The Intersect Constitutional Council votes that the Net Change Limit info action (7f320409d9998712ff3a3cdf0c9439e1543f236a3d746766f78f1fdbe1e06bf8#0) is unconstitutional, with a vote split of 4-x-x.
+The Intersect Constitutional Council votes that the net change limit info action (7f320409d9998712ff3a3cdf0c9439e1543f236a3d746766f78f1fdbe1e06bf8#0) is unconstitutional after 6 of 7 members voted.
 
 # Rationale Statement
 
-The governance action proposes Net Change Limits for both 2025 and 2026 at 300 million ADA and 250 million ADA respectively. This is the first info action to propose a net change limit, an off-chain parameter to establish the maximum amount of treasury withdrawals allowed for any given period, in this case, the years 2025 and 2026. A Net Change Limit is required by TREASURY-01(a) and TREASURY-02(a) Guardrails as outlined in Appendix I Section 3.
+The governance action proposes net change limits for both 2025 and 2026 at 300 million ada and 250 million ada respectively. This is the first info action to propose a net change limit, an off-chain parameter to establish the maximum amount of treasury withdrawals allowed for any given period, in this case, the years 2025 and 2026. A net change limit is required by TREASURY-01(a) and TREASURY-02(a) Guardrails as outlined in Appendix I Section 3.
 
 The proposal appears to be a community submitted proposal rather than an institutional one and the Council commends the initiative taken, as it is any ada holders right as outlined in Article III Section 3, “All holders of ada shall have the right to propose changes”.
 
@@ -34,9 +34,9 @@ This decision reinforces the expectation for clear, immutable documentation in g
 # Internal Vote
 
 - Constitutional: 0
-- Unconstitutional: 4
+- Unconstitutional: 6
 - Abstain: 0
-- Did Not Vote: 0
+- Did Not Vote: 1
 
 # References
 
