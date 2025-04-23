@@ -5,7 +5,7 @@
   - [via adastat](https://adastat.net/transactions/40da05b70777e023c3f497c81ebc17bd8eff1afedb8819055f9d369912a695bb)
   - [via cardanoscan](https://cardanoscan.io/vote/40da05b70777e023c3f497c81ebc17bd8eff1afedb8819055f9d369912a695bb)
   - [via cexplorer](https://cexplorer.io/tx/40da05b70777e023c3f497c81ebc17bd8eff1afedb8819055f9d369912a695bb/governance#data)
-  - [via governance X bot](https://x.com/GovActions/status/1905685564512247992)
+  - [via governance X bot](https://x.com/GovActions/status/1912910286652072259)
 
 - Rationale metadata hash: `c2829d410cee1bdd73ce0dcfba0e906b1ea7114480dfa68a1dbc2b7948f5d1bd`
 - On-chain rationale metadata URI: `ipfs://bafkreicdu53g7u2lkqdfi4sik3jxytnwhmayvg642qpbsxqltvcdfjqqdy`
