@@ -4,7 +4,7 @@
 # Hardcoded JSON Schema URL
 
 # change this later once CIP-136 PR is merged (https://github.com/cardano-foundation/CIPs/pull/1041)
-# SCHEMA_URL="https://raw.githubusercontent.com/cardano-foundation/CIPs/d60b0316219fe48302fa30d965791ecb11ddfc58/CIP-0136/cip-136.common.schema.json"
+# SCHEMA_URL="https://raw.githubusercontent.com/cardano-foundation/CIPs/refs/heads/master/CIP-0136/cip-136.common.schema.json"
 SCHEMA_URL="https://raw.githubusercontent.com/cardano-foundation/CIPs/d60b0316219fe48302fa30d965791ecb11ddfc58/CIP-0136/cip-136.common.schema.json"
 
 # Check if the correct number of arguments is provided
