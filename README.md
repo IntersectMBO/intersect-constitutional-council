@@ -17,3 +17,4 @@ More information via [Constitutional Council Gitbook](https://intersect.gitbook.
   - [2025-03-13 - Protocol Parameter Change Reduce Treasury Cut](./vote-rationales/2025-03-13-ppu-treaury-cut/)
   - [2025-03-27 - Info Action Product Roadmap](./vote-rationales/2025-03-27-info-roadmap/)
   - [2025-04-16 - Info 2025 2026 Net Change Limit ](./vote-rationales/2025-04-16-info-net-change-limit)
+  - [2025-05-28 - 2025 Cardano NCL](./vote-rationales/2025-05-28-info-ncl-200m)
