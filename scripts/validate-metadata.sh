@@ -1,6 +1,5 @@
 #!/bin/bash
 
-set -euo pipefail
 
 # Hardcoded JSON Schema URL
 
@@ -58,6 +57,7 @@ fi
 
 # Basic spell check on key data fields (requires 'aspell' installed)
 if command -v aspell >/dev/null 2>&1; then
+    echo " "
     echo "Spell check warnings:"
     # List of fields to check
     for field in summary rationaleStatement precedentDiscussion counterargumentDiscussion conclusion; do
@@ -76,19 +76,20 @@ else
     echo "Warning: aspell not found, skipping spell check."
 fi
 
-
 echo " "
 echo "Validating JSON file against schema '$SCHEMA_URL'..."
 echo " "
 
 # Validate JSON against the schema
 ajv validate -s "$TMP_SCHEMA" -d "$JSON_FILE" --all-errors --strict=true
-RESULT=$?
+AJV_EXIT_CODE=$?
 
 # Clean up temporary files
 rm -f "$TMP_SCHEMA"
 rm -f "$TMP_JSON_FILE"
 
-echo "done"
+echo " "
+echo "Validation complete."
+echo " "
 
-exit $RESULT
+exit $AJV_EXIT_CODE
