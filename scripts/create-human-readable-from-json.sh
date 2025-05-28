@@ -10,7 +10,7 @@ extract_jsonld_data() {
     local precedentDiscussion=$(jq -r '.body.precedentDiscussion // empty' "$jsonld_file")
     local counterargumentDiscussion=$(jq -r '.body.counterargumentDiscussion // empty' "$jsonld_file")
     local conclusion=$(jq -r '.body.conclusion // empty' "$jsonld_file")
-    local authors=$(jq -r '.authors // empty' "$jsonld_file")
+    local authors=$(jq '.authors // empty' "$jsonld_file")
 
     # Extract the internalVote data
     local constitutional=$(jq -r '.body.internalVote.constitutional // empty' "$jsonld_file")
@@ -20,7 +20,7 @@ extract_jsonld_data() {
     local againstVote=$(jq -r '.body.internalVote.againstVote // empty' "$jsonld_file")
 
     # Extract the references and format them
-    local references=$(jq -r '.references[] | "- [\(.label)](\(.uri))" // empty' "$jsonld_file")
+    local references=$(jq -r '.body.references[] | "- [\(.label)](\(.uri))" // empty' "$jsonld_file")
 
     # Output to a markdown file
     local output_file="${jsonld_file}.md"
@@ -62,22 +62,25 @@ $references
 
 # Authors
 
+$authors
+
 EOF
 
-    # Append authors to the markdown file
-    if [ -n "$authors" ]; then
-        for author in $(jq -r '.authors[] | "- \(.name) (\(.did))"' "$jsonld_file"); do
-            echo "$author" >> "$output_file"
-        done
-    else
-        echo "No authors listed." >> "$output_file"
-    fi
+echo "Markdown file generated: $output_file"
 
-    echo "Markdown file generated: $output_file"
 }
 
 # Check if a file or directory is passed as an argument
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <file or directory>"
+    exit 1
+fi
+
+# If the argument is a process
+if [ -f "$1" ]; then
+    # If it's a single file, process it
+    extract_jsonld_data "$1"
+else
+    echo "Invalid input. Please provide a valid file or directory."
     exit 1
 fi
