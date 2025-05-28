@@ -56,6 +56,31 @@ if [ ! -s "$TMP_SCHEMA" ] || ! jq empty "$TMP_SCHEMA" >/dev/null 2>&1; then
     exit 1
 fi
 
+# Basic spell check on key data fields (requires 'aspell' installed)
+if command -v aspell >/dev/null 2>&1; then
+    echo "Spell check warnings:"
+    # List of fields to check
+    for field in summary rationaleStatement precedentDiscussion counterargumentDiscussion conclusion; do
+        # Extract field text
+        text=$(jq -r ".body.$field // empty" "$JSON_FILE")
+        if [ -n "$text" ]; then
+            # Use aspell to check spelling, output only misspelled words
+            echo "$text" | aspell list | sort -u | while read -r word; do
+                if [ -n "$word" ]; then
+                    echo "  Possible misspelling in '$field': $word"
+                fi
+            done
+        fi
+    done
+else
+    echo "Warning: aspell not found, skipping spell check."
+fi
+
+
+echo " "
+echo "Validating JSON file against schema '$SCHEMA_URL'..."
+echo " "
+
 # Validate JSON against the schema
 ajv validate -s "$TMP_SCHEMA" -d "$JSON_FILE" --all-errors --strict=true
 RESULT=$?
@@ -63,3 +88,7 @@ RESULT=$?
 # Clean up temporary files
 rm -f "$TMP_SCHEMA"
 rm -f "$TMP_JSON_FILE"
+
+echo "done"
+
+exit $RESULT
