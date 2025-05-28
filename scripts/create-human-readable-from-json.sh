@@ -78,7 +78,6 @@ fi
 
 # If the argument is a process
 if [ -f "$1" ]; then
-    # If it's a single file, process it
     extract_jsonld_data "$1"
 else
     echo "Invalid input. Please provide a valid file or directory."
