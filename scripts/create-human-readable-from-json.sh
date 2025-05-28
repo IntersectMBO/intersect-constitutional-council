@@ -68,6 +68,19 @@ EOF
 
 echo "Markdown file generated: $output_file"
 
+# Check if pandoc is installed
+if command -v pandoc >/dev/null 2>&1; then
+    pdf_output="${output_file%.md}.pdf"
+    pandoc "$output_file" -o "$pdf_output"
+    if [ $? -eq 0 ]; then
+        echo "PDF file generated: $pdf_output"
+    else
+        echo "Error: Failed to generate PDF from markdown."
+    fi
+else
+    echo "Warning: pandoc not found. PDF not generated."
+fi
+
 }
 
 # Check if a file or directory is passed as an argument
