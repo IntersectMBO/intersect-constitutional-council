@@ -80,6 +80,14 @@ echo " "
 echo "Validating JSON file against schema '$SCHEMA_URL'..."
 echo " "
 
+# Check if ajv CLI is installed
+if ! command -v ajv >/dev/null 2>&1; then
+    echo "Error: 'ajv' (ajv-cli) is required. Install with: npm install -g ajv-cli"
+    rm -f "$TMP_SCHEMA"
+    [ -n "$TMP_JSON_FILE" ] && rm -f "$TMP_JSON_FILE"
+    exit 1
+fi
+
 # Validate JSON against the schema
 ajv validate -s "$TMP_SCHEMA" -d "$JSON_FILE" --all-errors --strict=true
 AJV_EXIT_CODE=$?
