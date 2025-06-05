@@ -1,7 +1,7 @@
 
 # Vote 2025-xx-xx - 
 
-- Governance Action:
+- Governance Action: ``
 
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
