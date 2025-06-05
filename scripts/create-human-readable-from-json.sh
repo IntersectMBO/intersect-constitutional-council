@@ -3,6 +3,7 @@
 # Function to extract fields from the JSON-LD file
 extract_jsonld_data() {
     local jsonld_file=$1
+    local generate_pdf=$2
 
     # Extract the data fields using jq
     local summary=$(jq -r '.body.summary // empty' "$jsonld_file")
@@ -66,33 +67,47 @@ $authors
 
 EOF
 
-echo "Markdown file generated: $output_file"
+    echo "Markdown file generated: $output_file"
 
-# Check if pandoc is installed
-if command -v pandoc >/dev/null 2>&1; then
-    pdf_output="${output_file%.md}.pdf"
-    pandoc "$output_file" -o "$pdf_output"
-    if [ $? -eq 0 ]; then
-        echo "PDF file generated: $pdf_output"
-    else
-        echo "Error: Failed to generate PDF from markdown."
+    # Generate PDF only if flag is set
+    if [ "$generate_pdf" = true ]; then
+        # Check if pandoc is installed
+        if command -v pandoc >/dev/null 2>&1; then
+            pdf_output="${output_file%.md}.pdf"
+            pandoc "$output_file" -o "$pdf_output"
+            if [ $? -eq 0 ]; then
+                echo "PDF file generated: $pdf_output"
+            else
+                echo "Error: Failed to generate PDF from markdown."
+            fi
+        else
+            echo "Warning: pandoc not found. PDF not generated."
+        fi
     fi
-else
-    echo "Warning: pandoc not found. PDF not generated."
-fi
-
 }
 
-# Check if a file or directory is passed as an argument
-if [ $# -eq 0 ]; then
-    echo "Usage: $0 <file or directory>"
+# Usage message
+usage() {
+    echo "Usage: $0 [-pdf] <file>"
+    echo "  -pdf    Generate PDF output (requires pandoc)"
     exit 1
+}
+
+# PDF Parse flag
+generate_pdf=false
+if [ "$1" = "-pdf" ]; then
+    generate_pdf=true
+    shift
 fi
 
-# If the argument is a process
+# Check if a file is passed as an argument
+if [ $# -eq 0 ]; then
+    usage
+fi
+
 if [ -f "$1" ]; then
-    extract_jsonld_data "$1"
+    extract_jsonld_data "$1" $generate_pdf
 else
-    echo "Invalid input. Please provide a valid file or directory."
+    echo "Invalid input. Please provide a valid file."
     exit 1
 fi
