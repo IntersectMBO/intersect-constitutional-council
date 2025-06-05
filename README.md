@@ -18,3 +18,7 @@ More information via [Constitutional Council Gitbook](https://intersect.gitbook.
   - [2025-03-27 - Info Action Product Roadmap](./vote-rationales/2025-03-27-info-roadmap/)
   - [2025-04-16 - Info 2025 2026 Net Change Limit ](./vote-rationales/2025-04-16-info-net-change-limit)
   - [2025-05-28 - 2025 Cardano NCL](./vote-rationales/2025-05-28-info-ncl-200m)
+  - [2025-06-05 - Info Amaru Budget](./vote-rationales/2025-06-05-info-amaru-node)
+  - [2025-06-05 - Info Builders Budget](./vote-rationales/2025-06-05-info-community-builders-budget)
+  - [2025-06-05 - Info DeFi Liquidity Budget](./vote-rationales/2025-06-05-info-defi-liquidity)
+  - [2025-06-05 - Info NCL 300m](./vote-rationales/2025-06-05-info-ncl-300m)
