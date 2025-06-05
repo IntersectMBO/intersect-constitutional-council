@@ -9,7 +9,7 @@ Governance Action: `gov_action1vdlrcftd48qn2zz8egepr6xyfcmxpfz8r69k769gc5mhg662a
   - [via cexplorer](https://cexplorer.io/tx//governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: `642694da242d8e45fa3321ea905299819b5e68437bd6d4a7e57efdd627526a6a`
+- Rationale metadata hash: `d99e04225f5854ab81bd9fe083d1f2ca2df1e84f1f27386c1bb105a030ef1ee7`
 - On-chain rationale metadata URI: `ipfs://`
 
 - [Rationale File](./rationale.jsonld)
