@@ -11,7 +11,6 @@ Governance Action: `gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fe
 
 - Rationale metadata hash: `1f9401dd27d7667efe666dc565fa8dc60059567042b00e69194d13025a43e33f`
 - On-chain rationale metadata URI: `ipfs://bafkreievzoobom6hvlxi7brticepo3xv22kcwpdq2vab6zgzrpqsd3haua`
-- On-chain rationale metadata URI: `ipfs://bafkreievzoobom6hvlxi7brticepo3xv22kcwpdq2vab6zgzrpqsd3haua`
 
 - [Rationale File](./rationale.jsonld)
 - [Rendered Human Readable Markdown Rationale File](./rationale.jsonld.md)
