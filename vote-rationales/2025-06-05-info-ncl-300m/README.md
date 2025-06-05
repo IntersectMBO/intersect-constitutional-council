@@ -19,4 +19,4 @@ Governance Action: `gov_action1vdlrcftd48qn2zz8egepr6xyfcmxpfz8r69k769gc5mhg662a
 - IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/bafkreibliath2lfqke5vd7zm2i6gzsmwrskpyftuf4hqycxnqkkeco2qra>
 
 - Github hosted: <ttps://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-ncl-300m/rationale.jsonld>
-- Google doc: <https://drive.google.com/file/d/1XlfkjplLxVll4ydjKPd1XCXb-j5JYN5j/view?usp=drive_link>
+- Google doc: <https://docs.google.com/document/d/1NCnwyc2heS3Mr5XwZnU2KYELimjSQWoHpTHBuBGwTxA/edit?tab=t.0#heading=h.qvmax8nnwcex>

@@ -19,4 +19,4 @@ Governance Action: `gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmc
 - IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/bafkreiekkxbumz4x6og77pue5azz3fnueknqfbwnks7x5fkij35xfhxdmi>
 
 - Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-defi-liquidity/rationale.jsonld>
-- Google doc: <https://docs.google.com/document/d/1_sA8NP0A8YdozoU2pz8Xec9e7qYnveXKgv5evUSDicc/edit?pli=1&tab=t.0>
+- Google doc: <https://docs.google.com/document/d/1_sA8NP0A8YdozoU2pz8Xec9e7qYnveXKgv5evUSDicc/edit?pli=1&tab=t.0#heading=h.qvmax8nnwcex>
