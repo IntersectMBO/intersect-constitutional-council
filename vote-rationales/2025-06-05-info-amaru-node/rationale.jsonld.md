@@ -31,7 +31,7 @@ The Intersect Constitutional Council considers this to be an extremely well form
 - Unconstitutional: 0
 - Abstain: 0
 - Did Not Vote: 1
-- Against Voting: 
+- Against Voting: 0
 
 # References
 
