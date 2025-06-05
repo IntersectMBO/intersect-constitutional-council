@@ -1,6 +1,8 @@
 
 # Vote 2025-06-05 - Amaru Node Info Action Vote Rationale
 
+Governance Action: `gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fesnqqw9kxxz`
+
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
   - [via cardanoscan](https://cardanoscan.io/vote/)
