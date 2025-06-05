@@ -5,7 +5,7 @@ The Intersect Constitutional Council votes that the budget info action, “4840e
 
 # Rationale Statement
 
-There was an error during the submission of this proposal that meant that the hash of the provided proposal metadata did not match. The proposer has already acknowledged this and has expressed an intention to resubmit the proposal in the future. Therefore, due to failing to meet Article III Section 5 “The content of every on-chain governance action must be identical to the final off-chain version of the proposal action”, the Council votes unconstitutional on this action without further deliberation.
+There was an error during the submission of this proposal that meant that the hash of the provided proposal metadata did not match. The proposer has already acknowledged this and has expressed an intention to resubmit the proposal in the future. Therefore, due to failing to meet Article III Section 5 “The content of every on-chain governance action must be identical to the final off-chain version of the proposed action”, the Council votes unconstitutional on this action without further deliberation.
 
 # Precedent Discussion
 
@@ -17,7 +17,7 @@ This is the second budget proposal following on from the Amaru node budget propo
 
 # Conclusion
 
-The Intersect Constitutional Council votes this budget info action to be unconstitutional. In voting unconstitutional on this proposal due to the mismatching hash, the Council is in keeping with previous votes where such instances have occured, for example, the first Protocol Parameter Update for the Plutus V3 Cost Model (tx hash “cdd57a0cd3d7d5eb538dfe711278857650e22f136963d481600d1634293bf434”).
+The Intersect Constitutional Council votes this budget info action to be unconstitutional. In voting unconstitutional on this proposal due to the mismatching hash, the Council is in keeping with previous votes where such instances have occurred, for example, the first Protocol Parameter Update for the Plutus V3 Cost Model (tx hash “cdd57a0cd3d7d5eb538dfe711278857650e22f136963d481600d1634293bf434”).
 
 # Internal Vote
 
@@ -25,7 +25,7 @@ The Intersect Constitutional Council votes this budget info action to be unconst
 - Unconstitutional: 6
 - Abstain: 0
 - Did Not Vote: 1
-- Against Voting: 0
+- Against Voting: 
 
 # References
 
@@ -34,5 +34,9 @@ The Intersect Constitutional Council votes this budget info action to be unconst
 
 # Authors
 
-Intersect Constitutional Council
+[
+  {
+    "name": "Intersect Constitutional Council"
+  }
+]
 
