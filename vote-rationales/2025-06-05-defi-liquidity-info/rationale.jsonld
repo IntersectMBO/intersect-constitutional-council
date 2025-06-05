@@ -62,7 +62,8 @@
       "constitutional": 0,
       "unconstitutional": 6,
       "abstain": 0,
-      "didNotVote": 1
+      "didNotVote": 1,
+      "againstVoting": 0
     },
     "references": [
       {

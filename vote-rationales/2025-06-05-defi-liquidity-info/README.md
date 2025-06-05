@@ -1,5 +1,5 @@
 
-# Vote 2025-xx-xx - 
+# Vote 2025-06-05 - Defi Liquidity Info Action 
 
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
@@ -7,14 +7,14 @@
   - [via cexplorer](https://cexplorer.io/tx//governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: ``
-- On-chain rationale metadata URI: `ipfs://`
+- Rationale metadata hash: `a0ec46b93024984ae5f06c693becb35b702af4f53ebe0596c404170593b57cb9`
+- On-chain rationale metadata URI: `ipfs://bafkreicw6evuwnotcyxgv6g2qexgfwagmfv6xplw5rhc5lcrwl7enqwxz4`
 
 - [Rationale File](./rationale.jsonld)
 - [Rendered Human Readable Markdown Rationale File](./rationale.jsonld.md)
 
-- IPFS CID: ``
-- IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/>
+- IPFS CID: `bafkreicw6evuwnotcyxgv6g2qexgfwagmfv6xplw5rhc5lcrwl7enqwxz4`
+- IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/bafkreicw6evuwnotcyxgv6g2qexgfwagmfv6xplw5rhc5lcrwl7enqwxz4>
 
-- Github hosted: <>
-- Google doc: <>
+- Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-defi-liquidity-info/rationale.jsonld>
+- Google doc: <https://drive.google.com/file/d/1lK6mPiC5JSl6Q8-Mhcg22fXnqAkjJh3R/view?usp=drive_link>
