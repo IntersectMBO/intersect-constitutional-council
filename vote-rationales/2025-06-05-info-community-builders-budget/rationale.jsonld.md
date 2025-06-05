@@ -9,7 +9,7 @@ In accordance with Article III Section 4, this “info” action is in connectio
 
 The proposal meets the standardized and legible format requirements as outlined in Article III Section 5. The rationale contains a title, abstract, reason for the proposal and relevant supporting materials, meeting the minimum requirements of Article III Section 5.
 
-Although the proposal meets the standards for a normal “info” action, that is to say that it provides a title, abstract, rationale and supporting links as well as a matching URL and hash of the off-chain content, it falls short in a number of areas as it pertains to a budget info action. A budget info action also needs to contain some additional content including information regarding the potential budget administrator (Article IV Section 2) and an allocation of funds requested for audits (Article IV Section4). In addition to not providing more information with regards to the administrator, beyond simply naming Intersect, it has been raised in public forums that one of the projects listed as part of this particular budget (Starstream) has also publicly stated that they did not wish to have Intersect as their administrator. This raises concerns about the level of communication that has actually taken place between the proposer and the projects that they claim to represent.
+Although the proposal meets the standards for a normal “info” action, that is to say that it provides a title, abstract, rationale and supporting links as well as a matching URL and hash of the off-chain content, it falls short in a number of areas as it pertains to a budget info action. A budget info action also needs to contain some additional content including information regarding the potential budget administrator (Article IV Section 2) and an allocation of funds requested for audits (Article IV Section 4). In addition to not providing more information with regards to the administrator, beyond simply naming Intersect, it has been raised in public forums that one of the projects listed as part of this particular budget (Starstream) has also publicly stated that they did not wish to have Intersect as their administrator. This raises concerns about the level of communication that has actually taken place between the proposer and the projects that they claim to represent.
 
 # Precedent Discussion
 
@@ -31,13 +31,17 @@ The Intersect Constitutional Council concludes that this budget info action is u
 - Unconstitutional: 5
 - Abstain: 0
 - Did Not Vote: 2
-- Against Voting: 0
+- Against Voting: 
 
 # References
 
-- [Cardano Blockchain Ecosystem Constitution](ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy)
+
 
 # Authors
 
-Intersect Constitutional Council
+[
+  {
+    "name": "Intersect Constitutional Council"
+  }
+]
 
