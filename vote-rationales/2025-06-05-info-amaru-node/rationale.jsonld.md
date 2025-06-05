@@ -40,4 +40,3 @@ The Intersect Constitutional Council considers this to be an extremely well form
 # Authors
 
 Intersect Constitutional Council
-
