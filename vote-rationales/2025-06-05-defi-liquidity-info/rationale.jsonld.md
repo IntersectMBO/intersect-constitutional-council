@@ -29,7 +29,6 @@ The Intersect Constitutional Council votes this budget info action to be unconst
 
 # References
 
-- [Cardano Blockchain Ecosystem Constitution](ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy)
 - [GA-004 Intersect Constitutional Council vote rationale](https://github.com/IntersectMBO/intersect-constitutional-council/tree/main/vote-rationales/2024-11-27-ppu-oopsie)
 
 # Authors
