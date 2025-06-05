@@ -1,6 +1,8 @@
 
 # Vote 2025-06-05 - Community Builders Info Action Vote Rationale
 
+Governance Action: `gov_action1mmalzkcxpyn33t05hml2hxpwq0ffv6uu4mhe8sv7guz5nmm4afysqlmepzl`
+
 - Transaction ID: ``
   - [via adastat](https://adastat.net/transactions/)
   - [via cardanoscan](https://cardanoscan.io/vote/)
@@ -16,5 +18,5 @@
 - IPFS CID: ``
 - IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/>
 
-- Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-amaru-node/rationale.jsonld>
+- Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-community-builders-budget/rationale.jsonld>
 - Google doc: <https://drive.google.com/file/d/1C1jsKwlaaKe9uo3c7cJjTIX7Lk5RfqUS/view?usp=drive_link>
