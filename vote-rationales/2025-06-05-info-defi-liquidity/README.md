@@ -1,5 +1,5 @@
 
-# Vote 2025-06-05 - Defi Liquidity Info Action
+# Vote 2025-06-05 - Info Action Defi Liquidity
 
 Governance Action: `gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmcwzqql5lauu`
 
@@ -18,5 +18,5 @@ Governance Action: `gov_action1fpqwxp2kxvnntr8hpkh9q9djm78ccdww7qlhg5safugh4stmc
 - IPFS CID: ``
 - IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/>
 
-- Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-defi-liquidity-info/rationale.jsonld>
+- Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-defi-liquidity/rationale.jsonld>
 - Google doc: <https://docs.google.com/document/d/1_sA8NP0A8YdozoU2pz8Xec9e7qYnveXKgv5evUSDicc/edit?pli=1&tab=t.0>
