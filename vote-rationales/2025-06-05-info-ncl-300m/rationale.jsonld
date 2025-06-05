@@ -25,6 +25,7 @@
         "conclusion": "CIP136:conclusion",
         "internalVote": {
           "@id": "CIP136:internalVote",
+          "@container": "@set",
           "@context": {
             "constitutional": "CIP136:constitutional",
             "unconstitutional": "CIP136:unconstitutional",
@@ -62,14 +63,14 @@
       "constitutional": 5,
       "unconstitutional": 0,
       "abstain": 0,
-      "didNotVote": 2
+      "didNotVote": 2,
+      "againstVoting": 0
     },
     "references": [
       {
         "@type": "Other",
         "label": "Cardano Blockchain Ecosystem Constitution",
-        "uri": "ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy",
-        "RelevantArticles": "Article III Section 5"
+        "uri": "ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy"
       }
     ]
   },
