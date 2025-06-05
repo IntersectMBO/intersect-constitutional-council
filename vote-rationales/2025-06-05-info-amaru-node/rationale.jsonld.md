@@ -35,8 +35,13 @@ The Intersect Constitutional Council considers this to be an extremely well form
 
 # References
 
-- [Cardano Blockchain Ecosystem Constitution](ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy)
+
 
 # Authors
 
-Intersect Constitutional Council
+[
+  {
+    "name": "Intersect Constitutional Council"
+  }
+]
+
