@@ -9,7 +9,7 @@ Governance Action: `gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fe
   - [via cexplorer](https://cexplorer.io/tx//governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: `d635dc5dbd3445397e7cd0ea70467cc03eda0157ba15d75a20b2d02070879f02`
+- Rationale metadata hash: `1f9401dd27d7667efe666dc565fa8dc60059567042b00e69194d13025a43e33f`
 - On-chain rationale metadata URI: `ipfs://`
 
 - [Rationale File](./rationale.jsonld)
@@ -19,4 +19,4 @@ Governance Action: `gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fe
 - IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/>
 
 - Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-06-05-info-amaru-node/rationale.jsonld>
-- Google doc: <https://drive.google.com/file/d/1IGKcu6baNs_hyp4t1FV415CHEKFQIMw7/view?usp=drive_link>
+- Google doc: <https://docs.google.com/document/d/1WJsN_WqzGIzxtduk6y6mHA7KVJZpMUAIdHzWM38kj6Q/edit?pli=1&tab=t.0>
