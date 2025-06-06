@@ -3,10 +3,10 @@
 
 Governance Action: `gov_action1h4ygjv0hjfj3lmafcm76rpdzcm8vsvj9k5wejn3npyxwxm3fesnqqw9kxxz`
 
-- Transaction ID: ``
-  - [via adastat](https://adastat.net/transactions/)
-  - [via cardanoscan](https://cardanoscan.io/vote/)
-  - [via cexplorer](https://cexplorer.io/tx//governance#data)
+- Transaction ID: `085ba96a95d23f2e8b653ca3e189b660fabd10f24f86e888e110209f3380221e`
+  - [via adastat](https://adastat.net/transactions/085ba96a95d23f2e8b653ca3e189b660fabd10f24f86e888e110209f3380221e)
+  - [via cardanoscan](https://cardanoscan.io/vote/085ba96a95d23f2e8b653ca3e189b660fabd10f24f86e888e110209f3380221e)
+  - [via cexplorer](https://cexplorer.io/tx/085ba96a95d23f2e8b653ca3e189b660fabd10f24f86e888e110209f3380221e/governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
 - Rationale metadata hash: `1f9401dd27d7667efe666dc565fa8dc60059567042b00e69194d13025a43e33f`
