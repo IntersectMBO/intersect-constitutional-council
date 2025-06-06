@@ -25,7 +25,7 @@ The Intersect Constitutional Council votes this budget info action to be unconst
 - Unconstitutional: 6
 - Abstain: 0
 - Did Not Vote: 1
-- Against Voting: 
+- Against Voting: 0
 
 # References
 

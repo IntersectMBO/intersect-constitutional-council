@@ -29,7 +29,7 @@ The Intersect Constitutional Council votes that the 300M ada net change limit in
 - Unconstitutional: 0
 - Abstain: 0
 - Did Not Vote: 2
-- Against Voting: 
+- Against Voting: 0
 
 # References
 
