@@ -1,7 +1,7 @@
 
 # Summary
 
-The Intersect Constitutional Council votes that the budget info action, “9d213a57684d7ddf6f3350c80d042639ecbed5ccccc4a05bf54959a086593e7b”, to be constitutional.
+The Intersect Constitutional Council votes that the budget info action, “9d213a57684d7ddf6f3350c80d042639ecbed5ccccc4a05bf54959a086593e7b#0”, to be constitutional.
 
 # Rationale Statement
 
