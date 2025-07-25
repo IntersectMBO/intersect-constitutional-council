@@ -1,5 +1,5 @@
 
-# Vote 2025-07-11 - Amaru Node Treasury Withdrawal 
+# Vote 2025-07-25 - GovTool Budget Info Action
 
 - Governance Action: `gov_action1n5sn54mgf47a7men2ryq6ppx88kta4wvenz2qkl4f9v6ppje8easqxwm88m`
 
@@ -9,14 +9,14 @@
   - [via cexplorer](https://cexplorer.io/tx//governance#data)
   - [via governance X bot](https://x.com/GovActions/status/)
 
-- Rationale metadata hash: ``
-- On-chain rationale metadata URI: `ipfs://`
+- Rationale metadata hash: `bd19c36ba0f2cacabf1cdbcd4db5396444ac0d3e5b53dc1ce8c9d747608346b5`
+- On-chain rationale metadata URI: `ipfs://bafkreihrrzoxnghcgajfukzbgnv442usbiy7prrjitok7ngftav7bpnsv4`
 
 - [Rationale File](./rationale.jsonld)
 - [Rendered Human Readable Markdown Rationale File](./rationale.jsonld.md)
 
-- IPFS CID: ``
-- IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/>
+- IPFS CID: `bafkreihrrzoxnghcgajfukzbgnv442usbiy7prrjitok7ngftav7bpnsv4`
+- IPFS hosted (with ipfs.io gateway): <https://ipfs.io/ipfs/bafkreihrrzoxnghcgajfukzbgnv442usbiy7prrjitok7ngftav7bpnsv4>
 
 - Github hosted: <https://raw.githubusercontent.com/IntersectMBO/intersect-constitutional-council/refs/heads/main/vote-rationales/2025-07-25-info-govtool/rationale.jsonld>
 - Google doc: <https://docs.google.com/document/d/1WDW_G5oMw4t_vXiiZV589q16_xXoPe3MeZ-mOQaiti0/edit?tab=t.0>
