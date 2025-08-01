@@ -31,7 +31,7 @@ Other arguments put forth for unconstitutionality were that the budget proposal 
 
 # Conclusion
 
-The Intersect Constitutional Council has voted constitutional, with a vote split of 4-2-1.
+The Intersect Constitutional Council has voted constitutional, with a vote split of 4-2-2.
 
 # Internal Vote
 
