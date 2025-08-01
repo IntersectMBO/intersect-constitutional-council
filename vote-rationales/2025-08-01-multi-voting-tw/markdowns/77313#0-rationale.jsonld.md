@@ -1,7 +1,7 @@
 
 # Summary
 
-The Intersect Constitutional Council votes the treasury withdrawal governance action **“3cf29192a0ee1a77985054072edcdb566ac14707730637c4635d8fb6813cb4c9#0”** to be **constitutional**.
+The Intersect Constitutional Council votes the treasury withdrawal governance action **“2c7f900b7ff68f317a7b0e42231d4aed36227660baf2ee9a4be7e880eb977313#0”** to be **constitutional**.
 
 # Rationale Statement
 

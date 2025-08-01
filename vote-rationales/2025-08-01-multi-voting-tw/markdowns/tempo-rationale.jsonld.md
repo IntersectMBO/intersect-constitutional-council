@@ -37,7 +37,7 @@ The Intersect Constitutional Council has voted constitutional, with a vote split
 
 - Constitutional: 4
 - Unconstitutional: 2
-- Abstain: 1
+- Abstain: 2
 - Did Not Vote: 0
 - Against Voting: 0
 
