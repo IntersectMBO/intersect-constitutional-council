@@ -59,7 +59,7 @@ for ga in "${ga_list[@]}"; do
     jq --arg ga "$ga" '
         .body.govActionId = $ga |
         .body.summary = "The Intersect Constitutional Council votes the treasury withdrawal governance action **“"+ $ga +"”** to be **constitutional**." | 
-        .body.conclusion = "The Intersect Constitutional Council considers this treasury withdrawal action to be Constituional." |
+        .body.conclusion = "The Intersect Constitutional Council considers this treasury withdrawal action to be Constitutional." |
         .body.internalVote.constitutional = 7 |
         .body.internalVote.unconstitutional = 0 |
         .body.internalVote.abstain = 0 |

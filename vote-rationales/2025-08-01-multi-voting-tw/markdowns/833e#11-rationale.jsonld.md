@@ -31,7 +31,7 @@ As stated in previous vote rationales, the Intersect Constitutional Council cont
 
 # Conclusion
 
-The Intersect Constitutional Council considers this treasury withdrawal action to be Constituional.
+The Intersect Constitutional Council considers this treasury withdrawal action to be Constitutional.
 
 # Internal Vote
 
