@@ -24,10 +24,10 @@ extract_jsonld_data() {
     local references=$(jq -r '.body.references[] | "- [\(.label)](\(.uri))" // empty' "$jsonld_file")
 
     # Output to a markdown file
-    # local output_file="${jsonld_file}.md"
+    local output_file="${jsonld_file}.md"
     local output_dir=$(dirname "$(dirname "$jsonld_file")")
     local file_name=$(basename "$jsonld_file")
-    local output_file="${output_dir}/markdowns/${file_name}.md"
+    # local output_file="${output_dir}/markdowns/${file_name}.md"
     # Create markdown content
     cat > "$output_file" <<EOF
 
